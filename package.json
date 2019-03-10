@@ -1,0 +1,19 @@
+{
+  "name": "ecs-js",
+  "version": "1.0.0",
+  "description": "An Entity Component System for JavaScript Games!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KryptoCrash/ecs-js.git"
+  },
+  "author": "whimpers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KryptoCrash/ecs-js/issues"
+  },
+  "homepage": "https://github.com/KryptoCrash/ecs-js#readme"
+}
